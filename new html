@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Juiceland Paranormal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; background: #1a1a1a; color: #f2f2f2; margin: 0; padding: 0; }
+        header { background: #333; padding: 20px; text-align: center; }
+        main { padding: 40px 20px; }
+        footer { background: #222; color: #aaa; text-align: center; padding: 10px 0; position: fixed; width: 100%; bottom: 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Juiceland Paranormal</h1>
+    </header>
+    <main>
+        <p>This is your new HTML page! You can edit this content to add information about your project, team, or anything else you'd like.</p>
+    </main>
+    <footer>
+        &copy; 2025 Juiceland Paranormal TV
+    </footer>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3711160997741700"
+     crossorigin="anonymous"></script> </body>
+</html>

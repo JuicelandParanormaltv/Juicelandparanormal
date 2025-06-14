@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f8fb;
+}
+header {
+  background: #3c3c4e;
+  color: white;
+  padding: 1em 0;
+  text-align: center;
+}
+nav {
+  margin-top: 0.5em;
+}
+nav a {
+  color: #ffd700;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  padding: 2em;
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8px;
+  margin-top: 2em;
+  box-shadow: 0 2px 5px rgba(60,60,78,0.05);
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background: #3c3c4e;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

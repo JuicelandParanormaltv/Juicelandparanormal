@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - Juiceland Paranormal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Juiceland Paranormal</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="about.html">About</a> |
+      <a href="contact.html">Contact</a> |
+      <a href="privacy.html">Privacy Policy</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Who We Are</h2>
+    <p>
+      Juiceland Paranormal is dedicated to exploring and sharing stories about the paranormal. Our mission is to bring fascinating investigations, tales, and resources to those curious about the unknown.
+    </p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Juiceland Paranormal</p>
+  </footer>
+</body>
+</html>

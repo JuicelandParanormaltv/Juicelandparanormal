@@ -1,5 +1,3 @@
 User-agent: *
-Disallow:
-
-User-agent: Mediapartners-Google
-Disallow:
+Allow: /
+Sitemap: https://juicelandparanormaltv.github.io/Juicelandparanormal/sitemap.xml

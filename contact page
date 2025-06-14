@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - Juiceland Paranormal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Juiceland Paranormal</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="about.html">About</a> |
+      <a href="contact.html">Contact</a> |
+      <a href="privacy.html">Privacy Policy</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Get in Touch</h2>
+    <p>
+      Have a question, story, or want to get involved? Email us at <a href="mailto:your@email.com">your@email.com</a>.<br>
+      (Replace with your real contact info!)
+    </p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Juiceland Paranormal</p>
+  </footer>
+</body>
+</html>
